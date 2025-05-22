@@ -1,11 +1,11 @@
 {
-  "name": "Simply-Chocolate",
+  "name": "parapa",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Simply-Chocolate/",
+    "build": "vite build --base=/parapa/",
     "preview": "vite preview"
   },
   "devDependencies": {
